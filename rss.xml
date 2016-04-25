@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pierremeneaud]]></title>
+        <description><![CDATA[pierremeneaud]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 12:32:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE SEQUENCE]]></title>
+            <description><![CDATA[<p>https://vimeo.com/9953368</p>]]></description>
+            <link>undefinedthe-sequence/index.html</link>
+            <guid isPermaLink="false">77c47fdb-2f26-4867-8d4a-d3586fe43dfe</guid>
+            <pubDate>Mon, 25 Apr 2016 12:32:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
